@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled 
+bb8367caef2be91545f19d00e1b0fe6a578cfced refs/heads/master
+bb8367caef2be91545f19d00e1b0fe6a578cfced refs/heads/modify-README
